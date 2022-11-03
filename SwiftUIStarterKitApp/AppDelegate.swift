@@ -3,7 +3,7 @@
 //  SwiftUIStarterKitApp
 //
 //  Created by Osama Naeem on 01/08/2019.
-//  Copyright © 2019 NexThings. All rights reserved.
+//  Copyright © 2023 . All rights reserved.
 //
 
 import UIKit
